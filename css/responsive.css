@@ -1,0 +1,2 @@
+/* Responsive rules are kept beside each component in style.css; add page-wide overrides here. */
+@media(max-width:480px){html{font-size:15px}}
